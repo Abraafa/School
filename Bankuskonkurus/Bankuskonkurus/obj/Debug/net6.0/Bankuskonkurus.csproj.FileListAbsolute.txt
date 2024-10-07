@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\bin\Debug\net6.0\Bankuskonkurus.exe
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\bin\Debug\net6.0\Bankuskonkurus.deps.json
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\bin\Debug\net6.0\Bankuskonkurus.runtimeconfig.json
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\bin\Debug\net6.0\Bankuskonkurus.dll
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\bin\Debug\net6.0\Bankuskonkurus.pdb
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\Bankuskonkurus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\Bankuskonkurus.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\Bankuskonkurus.AssemblyInfo.cs
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\Bankuskonkurus.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\Bankuskonkurus.dll
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\refint\Bankuskonkurus.dll
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\Bankuskonkurus.pdb
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\Bankuskonkurus.genruntimeconfig.cache
+C:\Users\andre\source\repos\Bankuskonkurus\Bankuskonkurus\obj\Debug\net6.0\ref\Bankuskonkurus.dll
